@@ -1,0 +1,187 @@
+Name
+Price
+24h %
+Volume (24h)
+Market Cap
+Sector
+Last 7 days
+1
+
+Bitcoin
+BTC
+$63,800.45
+-0.29%
+$18.85B
+$1.26T
+Currency
+2
+
+Ethereum
+ETH
+$3,136.48
+-0.15%
+$9.53B
+$376.68B
+Smart Contract Platform
+3
+
+Tether
+USDT
+$1.00
+-0.02%
+$46.35B
+$110.63B
+Stablecoin
+4
+
+BNB
+BNB
+$587.05
+-0.69%
+$632.20M
+$90.32B
+Smart Contract Platform
+5
+
+Solana
+SOL
+$146.49
+-0.36%
+$5.02B
+$65.51B
+Smart Contract Platform
+6
+
+USD Coin
+USDC
+$1.00
+-
+$8.94B
+$33.21B
+Stablecoin
+7
+
+XRP
+XRP
+$0.52937100
+-1.13%
+$1.38B
+$29.31B
+Currency
+8
+
+Dogecoin
+DOGE
+$0.16064454
+0.91%
+$2.89B
+$23.16B
+Currency
+9
+
+Toncoin
+TON
+$5.78
+0.34%
+$190.48M
+$20.06B
+Smart Contract Platform
+10
+
+Cardano
+ADA
+$0.45738287
+-2.71%
+$269.66M
+$16.16B
+Smart Contract Platform
+11
+
+Shiba Inu
+SHIB
+$0.00002476
+-3.50%
+$883.98M
+$14.59B
+Currency
+12
+
+Avalanche
+AVAX
+$36.99
+2.88%
+$506.56M
+$14.07B
+Smart Contract Platform
+13
+
+Tron
+TRX
+$0.12143591
+-1.47%
+$448.48M
+$10.63B
+Smart Contract Platform
+14
+
+Wrapped Bitcoin
+WBTC
+$63,833.01
+-0.30%
+$321.44M
+$9.91B
+-
+15
+
+Polkadot
+DOT
+$7.08
+-1.40%
+$342.70M
+$9.62B
+Smart Contract Platform
+16
+
+Bitcoin Cash
+BCH
+$464.29
+-1.95%
+$253.14M
+$9.15B
+Currency
+17
+
+Chainlink
+LINK
+$14.29
+0.48%
+$258.23M
+$8.39B
+Computing
+18
+
+NEAR Protocol
+NEAR
+$7.13
+3.93%
+$499.72M
+$7.61B
+Smart Contract Platform
+19
+
+Polygon
+MATIC
+$0.73492296
+0.13%
+$190.92M
+$6.82B
+Smart Contract Platform
+20
+
+Litecoin
+LTC
+$81.07
+-1.53%
+$261.19M
+$6.04B
+Currency
